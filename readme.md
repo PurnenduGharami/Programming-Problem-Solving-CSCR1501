@@ -19,3 +19,5 @@ This course introduces the fundamentals of problem-solving techniques using algo
 *   `/Unit-1_Introduction-to-Problem-Solving`: Contains notes, flowcharts, and pseudo-code.
 *   `/Unit-2_Introduction-to-C`: Contains code examples for C fundamentals.
 *   ... (and so on for other units)
+
+in codes folder I have uploaded some example that i have worked one I have also completed many other examples but I haven't completely uploaded them here.
