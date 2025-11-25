@@ -24,7 +24,7 @@ Welcome to my coursework repository for **Programming for Problem Solving Lab (C
 **Focus:** Logic Building, Structured Programming, and Problem Solving.
 
 This course is designed to introduce the fundamentals of computational thinking. It bridges the gap between abstract problem solving and executable code, focusing heavily on the **C programming language**.
-
+Here is the video Notes That I created using Notebooklm : [VidNotes](https://www.youtube.com/channel/UCuBpDErv4iGC6p09u8GrXGg)
 ---
 
 ## 📂 Repository Structure
